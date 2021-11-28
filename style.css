@@ -160,11 +160,11 @@ li > input[type="text"] {
 }
 
 /* Edit Task */
-li input[type=text]{
+li input[type="text"]{
   display: none;
 }
 
-.todo__edit-mode input[type=text] {
+.todo__edit-mode input[type="text"] {
   display: inline-block;
   width: 224px;
 }
